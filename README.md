@@ -1,4 +1,4 @@
-# payment-providers/contracts-php
+# community-sdks/payment-providers-php
 
 PHP package implementing provider-agnostic payment contracts defined in `../contracts`.
 
