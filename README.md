@@ -1,6 +1,6 @@
 # community-sdks/payment-providers-php
 
-PHP package implementing provider-agnostic payment contracts defined in `../contracts`.
+PHP package implementing provider-agnostic payment contracts defined in [`contracts`](https://github.com/community-sdks/contracts/tree/main/payment-providers).
 
 ## Features
 
@@ -15,7 +15,7 @@ PHP package implementing provider-agnostic payment contracts defined in `../cont
 ## Install
 
 ```bash
-composer install
+composer install community-sdks/payment-providers-php
 ```
 
 ## Quick Start
