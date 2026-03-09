@@ -1,5 +1,5 @@
 {
-  "name": "payment-providers/contracts-php",
+  "name": "community-sdks/payment-providers-php",
   "description": "Language-agnostic payment provider contract implementation for PHP with built-in Stripe, Paddle, and PayPal adapters.",
   "type": "library",
   "license": "MIT",
